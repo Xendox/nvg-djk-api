@@ -9,3 +9,5 @@ cd nvg-djk-api
 npm init
 npm run prod
 ```
+
+Browse localhost:3000
